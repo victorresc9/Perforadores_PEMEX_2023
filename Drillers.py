@@ -8,17 +8,9 @@ Created on Mon Oct  2 11:38:05 2023
 #CORE
 import streamlit as st
 from PIL import Image
-import streamlit.components.v1 as components
-
 
 #EDA
 import pandas as pd
-import numpy as np
-
-#GRAPHERS
-from plotly.subplots import make_subplots
-import plotly.express as px
-import plotly.graph_objs as go
 
 #PAGE SETUP
 APP_TITLE = "CNT - Perforadores"
