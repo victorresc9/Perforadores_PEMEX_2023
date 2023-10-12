@@ -6,7 +6,6 @@ Created on Mon Oct  2 11:38:05 2023
 """
 
 #CORE
-from st_aggrid import GridOptionsBuilder, AgGrid, GridUpdateMode, DataReturnMode
 import streamlit as st
 from PIL import Image
 import streamlit.components.v1 as components
